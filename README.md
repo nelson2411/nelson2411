@@ -8,9 +8,9 @@ I'm from El Salvador but I'm currently living in Sweden. I do web development in
 
 Skills: 
 
-💻 HTML / CSS / JS 
-📊 Google Analytics
-🇺🇸
+* 💻 HTML / CSS / JS 
+* 📊 Google Analytics
+* 🇺🇸
 
 - 🔭 I’m currently working on Achiote Web Design 
 - 🌱 I’m currently learning JavaScript 
