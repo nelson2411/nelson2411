@@ -2,7 +2,7 @@
 #### Web Development
 ![Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm from El Salvador but I'm currently living in Sweden. I do web development in a small web design agency that I co-founded along with my wife. I am a one man orchestra right now because I have to take in charge of all aspects of a web design client solution. I do and enjoy coding with HTML, CSS and JavaScript. I work in WordPress also for e-commerce projects. I take care of SEO for my clients' projects. I make performances reports on Google Analytics and I love wireframing on Balsamiq. 
+I'm from El Salvador but I'm currently living in Sweden. I do web development in a small web design agency that I co-founded along with my wife. I had to learn multiple things in order to take in charge of every aspect of a web design client solution. I do and enjoy coding with HTML, CSS and JavaScript. I work in WordPress also for e-commerce projects. I take care of SEO for my clients' projects. I make performances reports on Google Analytics and I love wireframing on Balsamiq. 
 
 
 Skills: HTML / CSS / JS 
