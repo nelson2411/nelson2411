@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Nelson Rosales
 #### Self-taught Web Developer
-![Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Development](https://i.ibb.co/tbkvPgj/Nelson-Rosales-Web-Developer.png)
 
 #### About Me
 
