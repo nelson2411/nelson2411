@@ -12,7 +12,7 @@ Skills:
 
 * 💻 HTML / CSS / JS 
 * 📊 Google Analytics
-* 🇺🇸
+* 
 
 - 🔭 I’m currently working on Achiote Web Design 
 - 🌱 I’m currently learning JavaScript 
