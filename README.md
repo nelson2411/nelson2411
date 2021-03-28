@@ -26,6 +26,4 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson2411&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/nelson2411)  
-
 ![Profile views](https://gpvc.arturio.dev/nelson2411)  
