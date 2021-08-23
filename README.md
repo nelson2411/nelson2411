@@ -13,7 +13,7 @@ Skills:
 * 💻 HTML / CSS / JS 
 * 📊 Google Analytics
 * 
-- 👨‍💻 I am a Full Stack student right now at Integrify Academy
+- 👨‍💻 I am a Full Stack Developer student right now at Integrify Academy
 - 🔭 I’m currently working on Achiote Web Design 
 - 🌱 I’m currently improving my JavaScript skills 
 - 📫 How to reach me: nelson.rosales@achiotewebdesign.se 
