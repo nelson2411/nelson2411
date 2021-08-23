@@ -22,10 +22,10 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nelson2411)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nelsonrosales24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nelsonmirand4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@nelsonrosales27)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson2411&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson2411&layout=compact)](https://github.com/nelson2411/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson2411&show_icons=true)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nelson0504)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nelson0504)](https://github.com/nelson2411/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/nelson2411)  
