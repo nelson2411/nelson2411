@@ -26,6 +26,6 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson2411&show_icons=true)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nelson0504)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nelson0504)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/nelson2411)  
