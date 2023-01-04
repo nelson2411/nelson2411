@@ -4,8 +4,7 @@
 
 #### About Me
 
-I'm from El Salvador but I'm currently living in Malaga - Spain. I do web development in a small web design agency that I co-founded along with my wife. I had to learn multiple things in order to take in charge of every aspect of a web design client solution. I do and enjoy coding with HTML, CSS and JavaScript. I work in WordPress also for e-commerce projects. I take care of SEO for my clients' projects. I make performances reports on Google Analytics and I love wireframing on Balsamiq. 
-
+Originally from El Salvador, I'm currently living in Malaga, Spain. I co-founded a small web design agency with my wife where I work as a web developer. Taking care of every aspect of a web design client solution required me to learn multiple things. Coding HTML, CSS, and JavaScript is something I do and enjoy doing. Also, I work with WordPress for e-commerce projects. On behalf of my clients, I manage their search engine optimization. I enjoy wireframing on Balsamiq and making performance reports on Google Analytics.
 
 
 Skills: 
