@@ -4,7 +4,7 @@
 
 #### About Me
 
-Salvadorean living in El Salvador. I co-founded a small web design agency with my wife where I work as a web developer. Taking care of every aspect of a web design client solution required me to learn multiple things. Coding HTML, CSS, and JavaScript is something I do and enjoy doing. Also, I work with WordPress for e-commerce projects. On behalf of my clients, I manage their search engine optimization. I enjoy wireframing on Balsamiq and making performance reports on Google Analytics.
+Based in Alicante, Spain. I co-founded a small web design agency with my wife where I work as a web developer. Taking care of every aspect of a web design client solution required me to learn multiple things. Coding HTML, CSS, and JavaScript is something I do and enjoy doing. Also, I work with WordPress for e-commerce projects. On behalf of my clients, I manage their search engine optimization. I enjoy wireframing on Balsamiq and making performance reports on Google Analytics.
 
 
 Skills: 
